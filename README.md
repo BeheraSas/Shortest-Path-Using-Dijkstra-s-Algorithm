@@ -16,7 +16,7 @@ Application: Network routing protocols such as OSPF (Open Shortest Path First) u
 
 **3. Financial Services**
 
-    Application: Financial institutions use Dijkstra's algorithm to find the shortest path in financial networks for optimizing investment portfolios, minimizing risk, and maximizing returns.
+Application: Financial institutions use Dijkstra's algorithm to find the shortest path in financial networks for optimizing investment portfolios, minimizing risk, and maximizing returns.
 
 **Implementation:**
 
